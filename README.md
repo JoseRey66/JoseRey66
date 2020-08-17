@@ -1,4 +1,4 @@
-![](https://media1.giphy.com/media/DBW3BniaWrFo4/200.gif)
+![](https://media2.giphy.com/media/A3lDsbjpbnRBu/giphy.gif?cid=ecf05e474e87efbc53297bcdbe33161cbdc7a374a2a78519&rid=giphy.gif)
 
 ### I'm José Reynaldo...👋
 
