@@ -1,4 +1,4 @@
-### Hi, I'm José Reynaldo👋
+### 👋
 
 <!--
 **JoseRey66/JoseRey66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
