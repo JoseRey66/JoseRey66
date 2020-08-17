@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/username/project/master/image-path/image.png)
+![](https://media1.giphy.com/media/DBW3BniaWrFo4/200.gif)
 
 ### I'm José Reynaldo...👋
 
