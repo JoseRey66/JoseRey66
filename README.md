@@ -2,7 +2,6 @@
 #### Systems Engineer at Pedro Ruiz Gallo National University 👨🏻‍💻
 ---
 ##### _Full Stack Developer_
-<span style="color: blue">Este texto está en azul.</span>
 <!--
 **JoseRey66/JoseRey66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
