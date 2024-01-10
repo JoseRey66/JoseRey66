@@ -2,6 +2,7 @@
 
 ### I'm José Reynaldo...👋🏻
 #### Systems Engineer at Pedro Ruiz Gallo National University 👨🏻‍💻
+---
 ##### _Full Stack Developer_
 
 <!--
