@@ -1,6 +1,7 @@
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; width: 70%; margin: 0 auto;">
 ### I'm José Reynaldo...👋🏻
 #### Systems Engineer at Pedro Ruiz Gallo National University 👨🏻‍💻
-***
+---
 ##### _Full Stack Developer_
 
 <!--
